@@ -1,2 +1,5 @@
 # Task-Mngr
-Task-manger app with node.js express and mongooes
+Task-manger app with Vanilla Javascript and Html CSS
+
+## Demo Link
+ https://180896-cse.github.io/Task-Mngr/
