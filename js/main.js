@@ -99,11 +99,11 @@ function deleteTodo(taskElement){
 updateGreeting = function(){
     hour = TODAY.getHours();
     if (hour>=5 & hour<=11){
-        greetingElement.innerHTML = "Good Morning, Vasan";
+        greetingElement.innerHTML = "Good Morning, Shantanu";
     }else if (hour>=12 & hour<=16){
-        greetingElement.innerHTML = "Good Afternoon, Vasan";
+        greetingElement.innerHTML = "Good Afternoon, Shantanu";
     }else{
-        greetingElement.innerHTML = "Good Evening, Vasan";
+        greetingElement.innerHTML = "Good Evening, Shantanu";
     }
 }
 
